@@ -13,6 +13,7 @@ Lagra tweets från responsen i din databas.
 Skapa en tabell för dina tweets precis som du gjorde för dina instagrambilder.
 ## Övning 4
 Analysera texterna från de tweets du hämtade hem och räkna ordförekomst.
+Slutresultatet skall bli en lista med ord och en siffra för hur många gånger varje ord förekommer.
 ## Övning 5
 Gör en lista med stoppord som skall exkluderas från textanalysen.
 Implementera stopplistan så att dessa ord exkluderas från dina resultat.
