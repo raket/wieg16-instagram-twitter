@@ -15,6 +15,7 @@ Skapa en tabell för dina tweets precis som du gjorde för dina instagrambilder.
 Analysera texterna från de tweets du hämtade hem och räkna ordförekomst.
 ## Övning 5
 Gör en lista med stoppord som skall exkluderas från textanalysen.
+Implementera stopplistan så att dessa ord exkluderas från dina resultat.
 ## Övning 6
 Gör en sida med ett formulär där man kan skriva in ett sökord.
 När formuläret skickas in så skall tweets hämtas hem via sök-API:et och resultatet från textanalysen visas.
